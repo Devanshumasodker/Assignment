@@ -49,9 +49,9 @@ This project is a React Native application built with Expo. It features a user d
 ## Demo Videos
 
 ### Demo 1: Basic Features
-![Demo1](Demo/demo1.mp4)
+![Demo1](Demo/Demo1.mp4)
 
 ### Demo 2: Extra Features
-![ExtraFeatDemo](Demo/Additional_feat.mp4)
+![Additional_feat](Demo/Additional_feat.mp4)
 
 ## Directory Structure

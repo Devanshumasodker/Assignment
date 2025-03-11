@@ -54,3 +54,36 @@ This project is a React Native application built with Expo. It features a user d
 ![Application View](./Demo/Additional_feat.gif)
 
 ## Directory Structure
+
+```
+Assignment/
+├── .expo/
+├── .vscode/
+├── assets/
+├── Demo/
+│   ├── Demo1.gif
+│   ├── Additional_feat.gif
+├── node_modules/
+├── src/
+│   ├── components/
+│   │   ├── navigationButtons.js
+│   │   ├── userCard.js
+│   ├── hooks/
+│   ├── screens/
+│   ├── Services/
+│   ├── utils/
+│   │   ├── Theme.js
+├── App.js
+├── .gitignore
+├── app.json
+├── index.js
+├── package-lock.json
+├── package.json
+├── README.md
+```
+
+## Unique Features
+
+- Added a user list for easy navigation.
+- Directly check user details from the list.
+- Seamless navigation to each user.

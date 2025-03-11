@@ -4,7 +4,6 @@
 
 This project is a React Native application built with Expo. It features a user directory with a custom drawer navigation and user cards. The application fetches user data from an API and displays it in a user-friendly interface.
 
-
 ## Tech Stack
 
 - **React Native**: For building the mobile application.
@@ -49,9 +48,15 @@ This project is a React Native application built with Expo. It features a user d
 ## Demo Videos
 
 ### Demo 1: Basic Features
-![Demo1](Demo/Demo1.mp4)
+<video width="320" height="240" controls>
+  <source src="Demo/Demo1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Demo 2: Extra Features
-![Additional_feat](Demo/Additional_feat.mp4)
+<video width="320" height="240" controls>
+  <source src="Demo/Additional_feat.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Directory Structure

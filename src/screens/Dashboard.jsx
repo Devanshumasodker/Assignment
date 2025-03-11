@@ -1,4 +1,3 @@
-// src/screens/Dashboard.jsx
 import React, { useState } from 'react';
 import { View, Text, ActivityIndicator, StyleSheet } from 'react-native';
 import useUsers from '../hooks/useUsers';

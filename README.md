@@ -47,17 +47,10 @@ This project is a React Native application built with Expo. It features a user d
 
 ## Demo Videos
 
-### Demo 1: Basic Features
+### Demo 1: Extra Features
 ![Application View](./Demo/Demo1.gif)
-<video width="320" height="240" controls>
-  <source src="Demo/Demo1.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-### Demo 2: Extra Features
-<video width="320" height="240" controls>
-  <source src="Demo/Additional_feat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Demo 2: Basic Features
+![Application View](./Demo/Additional_feat.gif)
 
 ## Directory Structure
